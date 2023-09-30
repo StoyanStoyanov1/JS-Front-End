@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6d42ffa-0823-4239-a03a-ee570b3db8e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Book-Story/book-srory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Book-Story/book-story.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Fruits/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Fruits/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Fruits/fruits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Fruits/kiwi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Fruits/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Navigation-Bar/nav-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Navigation-Bar/nav-bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Page-Content/page-content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Page-Content/page-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Reversed-List/reversed-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Reversed-List/reversed-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Semantic-Tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Semantic-Tags/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/The-Brown-Bear/bear.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/The-Brown-Bear/the-brown-bear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/The-Modern-JavaScript/the-modern-javascript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/The-Modern-JavaScript/the-modern-javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/To-Do-List/to-do-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/To-Do-List/to-do-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/Welcome-to-HTML/welcome-to-html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/World-Cup-News/arena-pantanal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/World-Cup-News/estadio-mineirao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/World-Cup-News/estadio-nacional.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/World-Cup-News/world-cup-news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS/Introductions-to-HTML-and-CSS/Exercises/World-Cup-News/world-cup-news.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/JS Front End",
+    "last_opened_file_path": "C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End/HTML-CSS/Introductions-to-HTML-and-CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS\Introductions-to-HTML-and-CSS" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End" />
     </key>
@@ -57,6 +84,7 @@
       <workItem from="1694555367163" duration="179000" />
       <workItem from="1695799868975" duration="663000" />
       <workItem from="1695840443769" duration="616000" />
+      <workItem from="1695970976324" duration="651000" />
     </task>
     <servers />
   </component>
