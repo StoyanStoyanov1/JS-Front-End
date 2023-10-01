@@ -1,0 +1,19 @@
+body {
+    background-color: #fff; /* или друг цвят, който искате за целия фон на страницата */
+}
+
+.container {
+    width: 480px;
+    margin: 0 auto; /* центрира контейнера във видимата област на браузъра */
+    background-color: #eaea92;
+}
+
+header {
+    background-color: #927575;
+    padding: 12px;
+}
+
+footer {
+    background-color: #927575;
+    padding: 5px;
+}
