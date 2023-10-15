@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6d42ffa-0823-4239-a03a-ee570b3db8e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/Ages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/CharsToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/CookingByNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/Fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/LeapYear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/MultiplicationTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/PrintAndSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/ReversedChars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/RoadRadar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/SumDigits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/Vacation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/JS-Syntax-Fundamentals/Exercises/sameNumbers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/JS Front End",
+    "last_opened_file_path": "C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End/JS/JS-Syntax-Fundamentals",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\JS\JS-Syntax-Fundamentals" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS\Introductions-to-HTML-and-CSS" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS" />
@@ -78,6 +90,7 @@
       <workItem from="1697183752900" duration="119000" />
       <workItem from="1697228422892" duration="623000" />
       <workItem from="1697288357904" duration="510000" />
+      <workItem from="1697354532854" duration="15000" />
     </task>
     <servers />
   </component>
