@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    text-align: center;
+    background-color: #444;
+}
+
+li {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 20px;
+    font-weight: bold;
+    margin-inside: 50px;
+}
+
+body {
+    background-color: #b7b4b4;
+    font-size: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header p {
+    font-style: italic;
+}
+
+article p {
+    font-style: italic;
+}
+
+footer {
+    padding: 5px;
+    background-color: #444444;
+    text-align: center;
+    color: white;
+}
+
