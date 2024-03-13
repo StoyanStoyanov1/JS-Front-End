@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6d42ffa-0823-4239-a03a-ee570b3db8e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/ClassVehicle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/Employees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/Inventory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/MakeADictionary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/Movies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/OddOccurrences.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/Piccolo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/StoreProvision.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/Towns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Exercises/WordsTracker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/AddressBook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/Cats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/City.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/ConvertToJSON.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/ConvertToObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/Meeting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/PersonInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/PhoneBook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Lab/Songs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/Armies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/BrowserHistory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/Catalogue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/BookShelf.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/ClassStorage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/Comments.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/FlightSchedule.js" afterDir="false" />
@@ -34,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/Laptop.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/SchoolRegister.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/Sequences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/MoreExercises/SoftUniStudents.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End/ObjectsAndClasses/MoreExercises",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\ObjectsAndClasses\MoreExercises" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\JS\JS-Syntax-Fundamentals" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS\Introductions-to-HTML-and-CSS\Exercises" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS\Introductions-to-HTML-and-CSS" />
-      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\PostgreSQL\JS-Front-End" />
@@ -124,6 +104,7 @@
       <workItem from="1709448668996" duration="72000" />
       <workItem from="1709707442602" duration="75000" />
       <workItem from="1710056174066" duration="108000" />
+      <workItem from="1710311310093" duration="59000" />
     </task>
     <servers />
   </component>
