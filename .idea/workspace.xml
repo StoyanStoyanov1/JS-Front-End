@@ -26,25 +26,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End/DOM-Introduction/Exercises/09. Number Convertor&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\DOM-Introduction\Exercises\09. Number Convertor" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End" />
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\DOM-Introduction\Exercises\09. Number Convertor" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\ObjectsAndClasses\MoreExercises" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\JS\JS-Syntax-Fundamentals" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS\Introductions-to-HTML-and-CSS\Exercises" />
@@ -100,6 +100,7 @@
       <workItem from="1710481953998" duration="62000" />
       <workItem from="1710967923956" duration="94000" />
       <workItem from="1711003438366" duration="189000" />
+      <workItem from="1711088612423" duration="631000" />
     </task>
     <servers />
   </component>
