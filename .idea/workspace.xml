@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d42ffa-0823-4239-a03a-ee570b3db8e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/server/data/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/style/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/style/img/vecteezy_white-cloud-clipart-design-illustration_9302650_805.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/tests for latest version of playwright-chromium/e2e.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/tests/e2e.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/Exam17August2023/WeatherTracker/tests/ta,js" afterDir="false" />
-    </list>
+    <list default="true" id="e6d42ffa-0823-4239-a03a-ee570b3db8e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,11 +41,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\Exams\Exam17August2023" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\AsynhronousHTTP&amp;AJAX\Еxercises" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\AsynhronousHTTP&amp;AJAX\Lab" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\DOM-ManipulationAndEvents\Exercises" />
-      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\DOM-Introduction\Exercises\09. Number Convertor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\PostgreSQL\JS-Front-End" />
@@ -120,7 +107,7 @@
       <workItem from="1712292833113" duration="125000" />
       <workItem from="1712293444874" duration="45000" />
       <workItem from="1712386526473" duration="230000" />
-      <workItem from="1712810757375" duration="305000" />
+      <workItem from="1712810757375" duration="896000" />
     </task>
     <servers />
   </component>
