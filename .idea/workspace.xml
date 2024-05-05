@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6d42ffa-0823-4239-a03a-ee570b3db8e7" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Exams/Exam13Apr2024/WildWestAdventure/solve.js" afterDir="false" />
+>>>>>>> 00ab1f4a92f66de587ea3903c6337d9be7614973
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End/JS/JS-Syntax-Fundamentals&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Black/OneDrive/Dokumente/GitHub/softuni_fundamentals_python/JS-Front-End/Exams/Exam13Apr2024&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -43,11 +47,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\JS\JS-Syntax-Fundamentals" />
-      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS\Introductions-to-HTML-and-CSS\Exercises" />
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\Exams\Exam13Apr2024" />
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\Exams\Exam17August2023" />
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\AsynhronousHTTP&amp;AJAX\Еxercises" />
+      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\AsynhronousHTTP&amp;AJAX\Lab" />
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End" />
-      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS\Introductions-to-HTML-and-CSS" />
-      <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\softuni_fundamentals_python\JS-Front-End\HTML-CSS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Black\OneDrive\Dokumente\GitHub\PostgreSQL\JS-Front-End" />
@@ -89,9 +93,34 @@
       <workItem from="1699729907722" duration="4000" />
       <workItem from="1699957515661" duration="1355000" />
       <workItem from="1700122517122" duration="2000" />
+<<<<<<< HEAD
       <workItem from="1708425432291" duration="55000" />
       <workItem from="1712386517020" duration="30000" />
       <workItem from="1712600355144" duration="26000" />
+=======
+      <workItem from="1708425401432" duration="27000" />
+      <workItem from="1708503550499" duration="599000" />
+      <workItem from="1708843579586" duration="59000" />
+      <workItem from="1709103021509" duration="168000" />
+      <workItem from="1709448668996" duration="72000" />
+      <workItem from="1709707442602" duration="75000" />
+      <workItem from="1710056174066" duration="108000" />
+      <workItem from="1710311310093" duration="59000" />
+      <workItem from="1710481953998" duration="62000" />
+      <workItem from="1710967923956" duration="94000" />
+      <workItem from="1711003438366" duration="189000" />
+      <workItem from="1711088612423" duration="631000" />
+      <workItem from="1711656445009" duration="20000" />
+      <workItem from="1711865782206" duration="41000" />
+      <workItem from="1711971762041" duration="21000" />
+      <workItem from="1712131401168" duration="639000" />
+      <workItem from="1712206606669" duration="321000" />
+      <workItem from="1712292833113" duration="125000" />
+      <workItem from="1712293444874" duration="45000" />
+      <workItem from="1712386526473" duration="230000" />
+      <workItem from="1712810757375" duration="896000" />
+      <workItem from="1713040661711" duration="82000" />
+>>>>>>> 00ab1f4a92f66de587ea3903c6337d9be7614973
     </task>
     <servers />
   </component>
